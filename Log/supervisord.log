@@ -1,0 +1,91 @@
+2024-06-03 18:39:26,538 INFO Included extra file "/etc/supervisor/conf.d/selenium.conf" during parsing
+2024-06-03 18:39:28,814 INFO RPC interface 'supervisor' initialized
+2024-06-03 18:39:29,703 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-03 18:39:29,718 INFO supervisord started with pid 1344773
+2024-06-03 18:39:30,720 INFO spawnerr: unknown error making dispatchers for 'xvfb': EROFS
+2024-06-03 18:39:30,721 INFO spawnerr: unknown error making dispatchers for 'vnc': EROFS
+2024-06-03 18:39:30,721 INFO spawnerr: unknown error making dispatchers for 'novnc': EROFS
+2024-06-03 18:39:30,724 INFO spawned: 'selenium-standalone' with pid 1345934
+2024-06-03 18:39:31,449 INFO gave up: xvfb entered FATAL state, too many start retries too quickly
+2024-06-03 18:39:31,449 INFO gave up: vnc entered FATAL state, too many start retries too quickly
+2024-06-03 18:39:31,449 INFO gave up: novnc entered FATAL state, too many start retries too quickly
+2024-06-03 18:39:31,449 INFO success: selenium-standalone entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2024-06-03 18:48:03,421 WARN received SIGINT indicating exit request
+2024-06-03 18:48:03,921 INFO waiting for selenium-standalone to die
+2024-06-03 18:48:04,922 INFO stopped: selenium-standalone (terminated by SIGTERM)
+2024-06-03 18:48:04,922 WARN received SIGTERM indicating exit request
+2024-06-06 20:59:47,353 INFO Included extra file "/etc/supervisor/conf.d/selenium.conf" during parsing
+2024-06-06 20:59:47,370 INFO RPC interface 'supervisor' initialized
+2024-06-06 20:59:47,370 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-06 20:59:47,413 INFO supervisord started with pid 3398189
+2024-06-06 20:59:48,415 INFO spawnerr: unknown error making dispatchers for 'xvfb': EROFS
+2024-06-06 20:59:48,416 INFO spawnerr: unknown error making dispatchers for 'vnc': EROFS
+2024-06-06 20:59:48,416 INFO spawnerr: unknown error making dispatchers for 'novnc': EROFS
+2024-06-06 20:59:48,418 INFO spawned: 'selenium-standalone' with pid 3398609
+2024-06-06 20:59:48,454 INFO gave up: xvfb entered FATAL state, too many start retries too quickly
+2024-06-06 20:59:48,454 INFO gave up: vnc entered FATAL state, too many start retries too quickly
+2024-06-06 20:59:48,454 INFO gave up: novnc entered FATAL state, too many start retries too quickly
+2024-06-06 20:59:48,454 INFO success: selenium-standalone entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2024-06-06 21:04:11,820 WARN received SIGINT indicating exit request
+2024-06-06 21:04:11,831 INFO waiting for selenium-standalone to die
+2024-06-06 21:04:12,832 INFO stopped: selenium-standalone (terminated by SIGTERM)
+2024-06-06 21:04:12,833 WARN received SIGTERM indicating exit request
+2024-06-06 21:14:20,032 INFO Included extra file "/etc/supervisor/conf.d/selenium.conf" during parsing
+2024-06-06 21:14:20,054 INFO RPC interface 'supervisor' initialized
+2024-06-06 21:14:20,054 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-06 21:14:20,065 INFO supervisord started with pid 3512110
+2024-06-06 21:14:21,067 INFO spawnerr: unknown error making dispatchers for 'xvfb': EROFS
+2024-06-06 21:14:21,068 INFO spawnerr: unknown error making dispatchers for 'vnc': EROFS
+2024-06-06 21:14:21,068 INFO spawnerr: unknown error making dispatchers for 'novnc': EROFS
+2024-06-06 21:14:21,070 INFO spawned: 'selenium-standalone' with pid 3512250
+2024-06-06 21:14:21,131 INFO gave up: xvfb entered FATAL state, too many start retries too quickly
+2024-06-06 21:14:21,131 INFO gave up: vnc entered FATAL state, too many start retries too quickly
+2024-06-06 21:14:21,131 INFO gave up: novnc entered FATAL state, too many start retries too quickly
+2024-06-06 21:14:21,131 INFO success: selenium-standalone entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2024-06-06 21:17:35,494 WARN received SIGINT indicating exit request
+2024-06-06 21:17:35,512 INFO waiting for selenium-standalone to die
+2024-06-06 21:17:36,513 INFO stopped: selenium-standalone (terminated by SIGTERM)
+2024-06-06 21:17:36,513 WARN received SIGTERM indicating exit request
+2024-06-06 21:18:24,098 INFO Included extra file "/etc/supervisor/conf.d/selenium.conf" during parsing
+2024-06-06 21:18:24,110 INFO RPC interface 'supervisor' initialized
+2024-06-06 21:18:24,111 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-06 21:18:24,138 INFO supervisord started with pid 3534379
+2024-06-06 21:18:25,140 INFO spawnerr: unknown error making dispatchers for 'xvfb': EROFS
+2024-06-06 21:18:25,140 INFO spawnerr: unknown error making dispatchers for 'vnc': EROFS
+2024-06-06 21:18:25,140 INFO spawnerr: unknown error making dispatchers for 'novnc': EROFS
+2024-06-06 21:18:25,142 INFO spawned: 'selenium-standalone' with pid 3534431
+2024-06-06 21:18:25,202 INFO gave up: xvfb entered FATAL state, too many start retries too quickly
+2024-06-06 21:18:25,202 INFO gave up: vnc entered FATAL state, too many start retries too quickly
+2024-06-06 21:18:25,202 INFO gave up: novnc entered FATAL state, too many start retries too quickly
+2024-06-06 21:18:25,202 INFO success: selenium-standalone entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2024-06-06 21:18:34,159 WARN received SIGHUP indicating restart request
+2024-06-06 21:18:34,168 INFO waiting for selenium-standalone to die
+2024-06-06 21:18:35,169 INFO stopped: selenium-standalone (terminated by SIGTERM)
+2024-06-07 15:23:56,328 INFO Included extra file "/etc/supervisor/conf.d/selenium.conf" during parsing
+2024-06-07 15:23:56,376 INFO RPC interface 'supervisor' initialized
+2024-06-07 15:23:56,376 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-07 15:23:56,378 INFO supervisord started with pid 3617196
+2024-06-07 15:23:57,379 INFO spawnerr: unknown error making dispatchers for 'xvfb': EROFS
+2024-06-07 15:23:57,379 INFO spawnerr: unknown error making dispatchers for 'vnc': EROFS
+2024-06-07 15:23:57,380 INFO spawnerr: unknown error making dispatchers for 'novnc': EROFS
+2024-06-07 15:23:57,382 INFO spawned: 'selenium-standalone' with pid 3617301
+2024-06-07 15:23:57,553 INFO gave up: xvfb entered FATAL state, too many start retries too quickly
+2024-06-07 15:23:57,553 INFO gave up: vnc entered FATAL state, too many start retries too quickly
+2024-06-07 15:23:57,553 INFO gave up: novnc entered FATAL state, too many start retries too quickly
+2024-06-07 15:23:57,553 INFO success: selenium-standalone entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2024-06-16 00:12:26,638 INFO Included extra file "/etc/supervisor/conf.d/selenium.conf" during parsing
+2024-06-16 00:12:26,720 INFO RPC interface 'supervisor' initialized
+2024-06-16 00:12:26,720 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-16 00:12:26,723 INFO supervisord started with pid 2703047
+2024-06-16 00:12:27,724 INFO spawnerr: unknown error making dispatchers for 'xvfb': EROFS
+2024-06-16 00:12:27,725 INFO spawnerr: unknown error making dispatchers for 'vnc': EROFS
+2024-06-16 00:12:27,725 INFO spawnerr: unknown error making dispatchers for 'novnc': EROFS
+2024-06-16 00:12:27,727 INFO spawned: 'selenium-standalone' with pid 2703106
+2024-06-16 00:12:27,831 INFO gave up: xvfb entered FATAL state, too many start retries too quickly
+2024-06-16 00:12:27,831 INFO gave up: vnc entered FATAL state, too many start retries too quickly
+2024-06-16 00:12:27,831 INFO gave up: novnc entered FATAL state, too many start retries too quickly
+2024-06-16 00:12:27,831 INFO success: selenium-standalone entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2024-06-16 00:13:31,160 WARN received SIGINT indicating exit request
+2024-06-16 00:13:31,160 INFO waiting for selenium-standalone to die
+2024-06-16 00:13:32,162 INFO stopped: selenium-standalone (terminated by SIGTERM)
+2024-06-16 00:13:32,162 WARN received SIGTERM indicating exit request
