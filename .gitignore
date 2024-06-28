@@ -1,0 +1,33 @@
+# Ignore specific directories
+ atlas.nii.gz                                                                       
+ config.toml                                                              
+ mca_anat_gifs                
+                                                            
+ mca_COReghmc_gifs            
+ SLURM
+ myenv2                       
+SLURM_ieee
+nilearn_cache                
+SLURM_MCA
+Data                                                                     
+nohup.out                    
+sub-07
+non_mca_fig                  
+overlappingTest              
+filtered_subjects.csv                                                          
+fmriprep_ieee-output                                                                
+fmriprep_mca-output                                                         
+fmriprep-output                                                                  
+fmriprep-output-quadfuzzy                                                                                                                        
+quadSlurm                    
+work
+quadworkdir                  
+workdir                                                                  
+workdir_ieee
+hmc_gifs                                                                    
+workdir_mca
+SLURM
+SLURM_ieee                                                                   
+myenv2
+.ppmi_config
+atlas.nii.gz
